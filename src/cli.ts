@@ -1,0 +1,3 @@
+import { replaceHttpsWithSsh } from '.'
+
+replaceHttpsWithSsh()

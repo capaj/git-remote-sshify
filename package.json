@@ -1,10 +1,10 @@
 {
-  "name": "git-remote-to-ssh",
+  "name": "git-remote-sshify",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "bin": {
-    "git-remote-to-ssh": "./dist/cli.js"
+    "git-remote-sshify": "./dist/cli.js"
   },
   "scripts": {
     "test": "vitest",

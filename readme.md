@@ -3,6 +3,7 @@
 Converts git remote urls to ssh urls with a single command
 
 ```bash
+bunx git-remote-sshify
 npx git-remote-sshify
 ```
 
